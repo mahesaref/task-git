@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 percobaan push branch development
 percobaan merge branch featureA
-=======
-percobaan push branch featureB
->>>>>>> featureB
+percobaan merge branch featureB
